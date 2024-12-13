@@ -1,3 +1,5 @@
+//Este ejercicio, evalúa si la edad introducida por el usuario por consola, permite la jubilación de este, considerando la edad de jubilacion como 65 años y teniendo este, que introducir la fecha actual.
+
 package ejerciciosJava1Trimestre;
 import java.util.Scanner;
 public class Ejercicio_1 {
