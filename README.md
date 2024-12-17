@@ -1,1 +1,1 @@
-In this repository, I will be uploading algorithms prompted in class both in Java and Python
+In this repository, I will be uploading algorithms proposed in class both in Java and Python
