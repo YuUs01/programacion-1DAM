@@ -1,4 +1,4 @@
-
+//este ejercicio, calcula el área de un circulo con el radio que el usuario introduce por consola.
 package traduccionejercicios;
 import java.util.Scanner;
 public class Ejercicio_2 {
