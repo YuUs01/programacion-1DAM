@@ -1,3 +1,4 @@
+#Este ejercicio, evalúa el día de la semana dependiendo del numero (ente 1 y 7) introducido por el usuario.
 dia=int(input("Introduzca un numero del 1 al 7 para evaluar que día de la semana es"))
 
 if dia==1:
